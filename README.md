@@ -1,2 +1,4 @@
 # bitlocker-on-linux
-Just a starter project
+
+
+Automate the mounting of Bitlocker on Linux
